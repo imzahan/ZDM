@@ -1,0 +1,38 @@
+# Build outputs
+target/
+dist/
+*.exe
+*.zip
+*.dll
+*.pyd
+*.so
+*.dylib
+*.bak
+
+# Agent & Internal Files (Strict Anti-Leak Protection)
+.claude/
+.gemini/
+.antigravity/
+.system_generated/
+brain/
+scratch/
+MEMORY.md
+memory.md
+*.jsonl
+*.log
+.env*
+
+# Runtime & Local Data
+instance.lock
+crashes/
+logs/
+data/
+downloads.json*
+
+# Editor & OS artifacts
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+__pycache__/
+node_modules/
