@@ -21,6 +21,7 @@ memory.md
 *.jsonl
 *.log
 .env*
+V3_PERMANENT_LAW.md
 
 # Runtime & Local Data
 instance.lock
