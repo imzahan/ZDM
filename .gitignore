@@ -22,6 +22,8 @@ memory.md
 *.log
 .env*
 V3_PERMANENT_LAW.md
+docs/*.md
+!docs/images/**
 
 # Runtime & Local Data
 instance.lock
