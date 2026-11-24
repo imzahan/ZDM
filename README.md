@@ -31,9 +31,9 @@
 | :---: | :---: |
 | <img src="docs/images/video-button-youtube.webp" width="440" alt="ZDM Browser Extension Video Pill" /> | <img src="docs/images/progress.webp" width="440" alt="ZDM Download Progress" /> |
 
-| Batch & Wildcard Downloader | Intelligent Download Scheduler |
+| Floating Desktop Drop Target (Aero Glass) | Universal Browser Extension Modal |
 | :---: | :---: |
-| <img src="docs/images/grabber.webp" width="440" alt="ZDM Batch Grabber" /> | <img src="docs/images/scheduler.webp" width="440" alt="ZDM Scheduler" /> |
+| <img src="docs/images/drop-target.webp" width="440" alt="ZDM Drop Target Widget" /> | <img src="docs/images/extension-dialog.webp" width="440" alt="ZDM Browser Extension Modal" /> |
 
 </div>
 
